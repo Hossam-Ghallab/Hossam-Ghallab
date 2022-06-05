@@ -1,6 +1,6 @@
 ### Hi There 👋
 <p><b>◻️&nbsp;&nbsp;&nbsp;About&nbsp;Me</b></p>
-<p>
+<p width="100">
 I'm Hossam and I'm a Senior Front End Developer and I own a YouTube channel to teach programming [ <a href="https://www.youtube.com/c/HossamGhallab"><b>My Channel </b></a>] I started learning more than two years ago, and my passion was programming games, but I did not have a powerful computer, I had started my YouTube channel, and I needed my own site to upload blogs , and I found many services such as Blogger, but I did not like it, so I thought of designing the site myself and I started looking for how to create a website and I found that the topic is somewhat difficult, but I will start and start learning the basics such as HTML, CSS and javaScript and I delved more in this field and learned bootstrap and sass etc. Before that, I was learning Python because many told me that it was easy and I started learning The basics, but I didn't go too deep and started to learn back-end next to the front-end to become a full stack, and since I love to learn programming, I decided to also go into game programming and also learn c# and Unity next to back-end This isn't my full story, but I don't like to talk much You can see all my projects on my website [ <a href="https://hossam-ghallab.github.io/hossamghallab/"><b>Portfolio</b></a>]
 Thank you for being here, I hope I helped you ❤️
 </p>
