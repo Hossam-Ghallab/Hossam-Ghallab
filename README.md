@@ -19,10 +19,15 @@ Thank you for being here, I hope I helped you ❤️
     <a href="https://www.youtube.com/c/HossamGhallab"><img src="https://img.shields.io/badge/youtube-%23FF0000?style=flat&logo=youtube&logoColor=white"/></a>
 </p>
 
+<br>
 </details>
 
 <details>
   <summary><b>&nbsp;&nbsp;All&nbsp;/&nbsp;Projects</b></summary>
   <br/>
     
+<div>
+    <p><li>Simple Calculator => <a href="https://hossam-ghallab.github.io/simple-calculator/">https://hossam-ghallab.github.io/simple-calculator/</a></li></p>
+    
+</div>
 </details>
